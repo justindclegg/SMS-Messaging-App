@@ -1,6 +1,6 @@
 # Web and Twilio powered SMS Messages app
 
-This is an implementation of an SMS Messages app that you can use with a [Twilio](https://twilio.com) number.
+This is an implementation of an SMS based Messaging app that you can use with a [Twilio](https://twilio.com) number.
 
 ## Warning
 
@@ -17,8 +17,8 @@ This is a work in progress as there are plenty of features to add. Currently the
 Clone the repository and install dependencies:
 
 ```bash
-$ git clone https://github.com/philnash/sms-messages-app.git
-$ cd sms-messages-app
+$ git clone https://github.com/justindclegg/sms-messaging-app.git
+$ cd sms-messaging-app
 $ npm install
 ```
 
