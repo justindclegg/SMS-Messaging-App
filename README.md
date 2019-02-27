@@ -2,7 +2,7 @@
 
 This is an implementation of an SMS based Messaging app that you can use with a [Twilio](https://twilio.com) number.
 
-## Warning
+## Quick Heads Up
 
 This is a work in progress as there are plenty of features to add. Currently the application does the following:
 
