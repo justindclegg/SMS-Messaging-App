@@ -1,4 +1,4 @@
-+# Web and Twilio powered SMS Messages app
++#Web and Twilio powered SMS Messages app
 
 This is an implementation of an SMS Messages app that you can use with a [Twilio](https://twilio.com) number.
 
